@@ -1,6 +1,5 @@
 maito
-leipä
-juusto
+leipäjuusto
 kahvi
 olut
 tomaattimurska
